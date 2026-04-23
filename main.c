@@ -24,8 +24,8 @@ void main(){
     
 
     printf("Añadir comentarios a los diseños");
+    printf("Crear un programa para crear carpetas");
 
-    
     printf("Estoy viendo el tráfico\n", );
     int x,y,z;
     y=2;
