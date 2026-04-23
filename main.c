@@ -28,7 +28,8 @@ int main(){
     printf("Crear un programa para crear carpetas");
 
 
-    printf("Estoy viendo el tráfico\n");
+    printf("Estoy viendo el tráfico");
+    printf("Se está inventando errores");
     int x,y,z;
     y=2;
     x=3;
