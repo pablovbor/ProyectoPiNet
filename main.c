@@ -21,16 +21,17 @@ int main(){
 
 
 
-    
+
 
     printf("Añadir comentarios a los diseños");
 
-    
-    printf("Estoy viendo el tráfico\n", );
+
+    printf("Estoy viendo el tráfico\n");
     int x,y,z;
     y=2;
     x=3;
     z=x+y;
     printf("Dos más dos es:%i\n",z);
+    printf("He cambiado cosas\n");
 return 0;
 }
