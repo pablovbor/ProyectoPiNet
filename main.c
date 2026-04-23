@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main(){
+int main(){
     printf("Creación de archivo");
 
     printf("Estoy viendo el tráfico\n", );
@@ -31,5 +31,6 @@ void main(){
     y=2;
     x=3;
     z=x+y;
+    printf("Dos más dos es:%i\n",z);
 return 0;
 }
