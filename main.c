@@ -4,7 +4,7 @@
 int main(){
     printf("Creación de archivo");
 
-    printf("Estoy viendo el tráfico\n", );
+    printf("Estoy ciego");
 
 
     printf("Herramienta para descargar los diseños");
