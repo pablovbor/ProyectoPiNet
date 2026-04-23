@@ -14,5 +14,15 @@ void main(){
     printf("Clasificación de componentes");
 
 
+
+
+
+
+
+
+    
+
+    printf("Añadir comentarios a los diseños");
+
 return 0;
 }
