@@ -11,5 +11,5 @@ void main(){
 
 
     printf("Estoy viendo el tráfico\n", );
-return 0
+return 0;
 }
