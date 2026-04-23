@@ -11,5 +11,9 @@ void main(){
 
 
     printf("Estoy viendo el tráfico\n", );
+    int x,y,z;
+    y=2;
+    x=3;
+    z=x+y;
 return 0;
 }
