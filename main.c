@@ -8,6 +8,7 @@ void main(){
     printf("Herramienta para descargar los diseños");
     
     printf("Creacion de lista de componentes disponibles");
+    printf("Clasificación de componentes");
 
 
 }
